@@ -1,2 +1,2 @@
 # DeployFX
-Jar file is in the meta folder
+Jar file is in src, meta folder
